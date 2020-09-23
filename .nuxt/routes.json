@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "/Users/mac/Downloads/realworld-nuxtjs 3/pages/layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "/Users/mac/Downloads/realworld-nuxtjs 3/pages/home",
+        "_name": "_10ff02c6"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "/Users/mac/Downloads/realworld-nuxtjs 3/pages/login",
+        "_name": "_0e70c52a"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "/Users/mac/Downloads/realworld-nuxtjs 3/pages/login",
+        "_name": "_0e70c52a"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "/Users/mac/Downloads/realworld-nuxtjs 3/pages/profile",
+        "_name": "_830681aa"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "/Users/mac/Downloads/realworld-nuxtjs 3/pages/settings",
+        "_name": "_bb49923e"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "/Users/mac/Downloads/realworld-nuxtjs 3/pages/editor",
+        "_name": "_13a033ab"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "/Users/mac/Downloads/realworld-nuxtjs 3/pages/article",
+        "_name": "_b571fb10"
+      }
+    ],
+    "_name": "_1f6f0d68"
+  }
+]
