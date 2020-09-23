@@ -50,10 +50,7 @@ module.exports = {
             ])
         }
     },
-    server:{
-        host:'0.0.0.0',
-        port:80
-    },
+   
     // 注册插件
     plugins: [
         '~/plugins/request.js',
